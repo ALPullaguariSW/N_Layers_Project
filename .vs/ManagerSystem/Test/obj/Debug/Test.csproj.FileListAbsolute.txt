@@ -1,3 +1,5 @@
+D:\Examen\Examen\.vs\ManagerSystem\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Examen\Examen\.vs\ManagerSystem\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 D:\Examen\Examen\.vs\ManagerSystem\Test\bin\Debug\Test.exe.config
 D:\Examen\Examen\.vs\ManagerSystem\Test\bin\Debug\Test.exe
 D:\Examen\Examen\.vs\ManagerSystem\Test\bin\Debug\Test.pdb
@@ -10,8 +12,6 @@ D:\Examen\Examen\.vs\ManagerSystem\Test\bin\Debug\DAL.dll.config
 D:\Examen\Examen\.vs\ManagerSystem\Test\bin\Debug\Entities.pdb
 D:\Examen\Examen\.vs\ManagerSystem\Test\bin\Debug\EntityFramework.xml
 D:\Examen\Examen\.vs\ManagerSystem\Test\bin\Debug\EntityFramework.SqlServer.xml
-D:\Examen\Examen\.vs\ManagerSystem\Test\obj\Debug\Test.csproj.AssemblyReference.cache
-D:\Examen\Examen\.vs\ManagerSystem\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 D:\Examen\Examen\.vs\ManagerSystem\Test\obj\Debug\Test.csproj.Up2Date
 D:\Examen\Examen\.vs\ManagerSystem\Test\obj\Debug\Test.exe
 D:\Examen\Examen\.vs\ManagerSystem\Test\obj\Debug\Test.pdb

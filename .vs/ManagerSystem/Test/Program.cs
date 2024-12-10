@@ -12,7 +12,20 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            addCategoryandProduct();
+            addTarea();
+        }
+        static void addTarea()
+        {
+            var tarea=new Tareas();
+            tarea.Descripcion = "Ejecutar algo";
+            tarea.Estado = "Activa";
+            using (var repository = RepositoryFactory.CreateRepository())
+            {
+                repository.Create(tarea);
+            }
+            Console.WriteLine($"Tarea: {tarea.TareaID},Estado:{tarea.Estado}");
+            Console.ReadLine();
+
         }
         static void addCategoryandProduct()
         {

@@ -3,15 +3,55 @@
   "WorkspaceRootPath": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB8A6F75-E445-4AD5-BBD8-0DCBA6A89A41}|ManagerSystem.Web\\ManagerSystem.Web.csproj|d:\\examen\\examen\\.vs\\managersystem\\managersystem.web\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8A6F75-E445-4AD5-BBD8-0DCBA6A89A41}|ManagerSystem.Web\\ManagerSystem.Web.csproj|solutionrelative:managersystem.web\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8A6F75-E445-4AD5-BBD8-0DCBA6A89A41}|ManagerSystem.Web\\ManagerSystem.Web.csproj|d:\\examen\\examen\\.vs\\managersystem\\managersystem.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DB8A6F75-E445-4AD5-BBD8-0DCBA6A89A41}|ManagerSystem.Web\\ManagerSystem.Web.csproj|solutionrelative:managersystem.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8A6F75-E445-4AD5-BBD8-0DCBA6A89A41}|ManagerSystem.Web\\ManagerSystem.Web.csproj|d:\\examen\\examen\\.vs\\managersystem\\managersystem.web\\soapservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8A6F75-E445-4AD5-BBD8-0DCBA6A89A41}|ManagerSystem.Web\\ManagerSystem.Web.csproj|solutionrelative:managersystem.web\\soapservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A686C163-7C9F-445D-87C7-46414ED2AD42}|Entities\\Entities.csproj|d:\\examen\\examen\\.vs\\managersystem\\entities\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A686C163-7C9F-445D-87C7-46414ED2AD42}|Entities\\Entities.csproj|solutionrelative:entities\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|d:\\examen\\examen\\.vs\\managersystem\\dal\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|solutionrelative:dal\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8A6F75-E445-4AD5-BBD8-0DCBA6A89A41}|ManagerSystem.Web\\ManagerSystem.Web.csproj|d:\\examen\\examen\\.vs\\managersystem\\managersystem.web\\soapservice.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{DB8A6F75-E445-4AD5-BBD8-0DCBA6A89A41}|ManagerSystem.Web\\ManagerSystem.Web.csproj|solutionrelative:managersystem.web\\soapservice.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|d:\\examen\\examen\\.vs\\managersystem\\dal\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|solutionrelative:dal\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|d:\\examen\\examen\\.vs\\managersystem\\dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|solutionrelative:dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|d:\\examen\\examen\\.vs\\managersystem\\dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|solutionrelative:dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01FF7EB9-C01F-4271-917F-DFD7DB02BE77}|ServiceSOAP\\ServiceSOAP.csproj|d:\\examen\\examen\\.vs\\managersystem\\servicesoap\\servicesoap.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01FF7EB9-C01F-4271-917F-DFD7DB02BE77}|ServiceSOAP\\ServiceSOAP.csproj|solutionrelative:servicesoap\\servicesoap.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80C6C828-4FAF-495C-BB08-72BF3DC0E4A4}|BLL\\BLL.csproj|d:\\examen\\examen\\.vs\\managersystem\\bll\\tareaslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C6C828-4FAF-495C-BB08-72BF3DC0E4A4}|BLL\\BLL.csproj|solutionrelative:bll\\tareaslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1384974-4B75-4E41-8124-A355BF3C81EB}|Test\\Test.csproj|d:\\examen\\examen\\.vs\\managersystem\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|d:\\examen\\examen\\.vs\\managersystem\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7985B6C2-0C3C-471A-BB26-A1C31376A3A5}|SLC\\SLC.csproj|d:\\examen\\examen\\.vs\\managersystem\\slc\\itareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7985B6C2-0C3C-471A-BB26-A1C31376A3A5}|SLC\\SLC.csproj|solutionrelative:slc\\itareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1384974-4B75-4E41-8124-A355BF3C81EB}|Test\\Test.csproj|D:\\Examen\\Examen\\.vs\\ManagerSystem\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1384974-4B75-4E41-8124-A355BF3C81EB}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,19 +71,161 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ManagerSystem.Web\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ManagerSystem.Web\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ManagerSystem.Web\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ManagerSystem.Web\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:33:59.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\Entities\\Tareas.cs",
+              "RelativeDocumentMoniker": "Entities\\Tareas.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\Entities\\Tareas.cs",
+              "RelativeToolTip": "Entities\\Tareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:01:05.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryFactory.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\RepositoryFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\RepositoryFactory.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\RepositoryFactory.cs",
+              "RelativeToolTip": "DAL\\RepositoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:00:56.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\IRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:00:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SOAPService.asmx",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ManagerSystem.Web\\SOAPService.asmx",
+              "RelativeDocumentMoniker": "ManagerSystem.Web\\SOAPService.asmx",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ManagerSystem.Web\\SOAPService.asmx",
+              "RelativeToolTip": "ManagerSystem.Web\\SOAPService.asmx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2024-12-10T19:57:10.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SOAPService.asmx.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ManagerSystem.Web\\SOAPService.asmx.cs",
+              "RelativeDocumentMoniker": "ManagerSystem.Web\\SOAPService.asmx.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ManagerSystem.Web\\SOAPService.asmx.cs",
+              "RelativeToolTip": "ManagerSystem.Web\\SOAPService.asmx.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:56:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ManagerSystem.Web\\Web.config",
+              "RelativeDocumentMoniker": "ManagerSystem.Web\\Web.config",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ManagerSystem.Web\\Web.config",
+              "RelativeToolTip": "ManagerSystem.Web\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-10T19:52:17.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\Model1.edmx",
+              "RelativeDocumentMoniker": "DAL\\Model1.edmx",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DAL\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-10T20:10:22.697Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TareasLogic.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\BLL\\TareasLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\TareasLogic.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\BLL\\TareasLogic.cs",
+              "RelativeToolTip": "BLL\\TareasLogic.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:47:28.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.Config",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\App.Config",
+              "RelativeDocumentMoniker": "DAL\\App.Config",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\App.Config",
+              "RelativeToolTip": "DAL\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-10T19:45:45.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EFRepository.cs",
               "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\EFRepository.cs",
               "RelativeDocumentMoniker": "DAL\\EFRepository.cs",
               "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\EFRepository.cs",
               "RelativeToolTip": "DAL\\EFRepository.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowEoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T15:04:16.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "ITareaService.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\SLC\\ITareaService.cs",
+              "RelativeDocumentMoniker": "SLC\\ITareaService.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\SLC\\ITareaService.cs",
+              "RelativeToolTip": "SLC\\ITareaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:47:40.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
@@ -52,19 +234,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T14:59:49.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceSOAP.asmx.cs",
-              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ServiceSOAP\\ServiceSOAP.asmx.cs",
-              "RelativeDocumentMoniker": "ServiceSOAP\\ServiceSOAP.asmx.cs",
-              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ServiceSOAP\\ServiceSOAP.asmx.cs",
-              "RelativeToolTip": "ServiceSOAP\\ServiceSOAP.asmx.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:47:47.632Z",
               "EditorCaption": ""
             }
           ]

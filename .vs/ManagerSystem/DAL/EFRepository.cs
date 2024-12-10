@@ -22,12 +22,14 @@ namespace DAL
 
             try
             {
-                if (_dbContext.Set<TEntity>().Local.Any(e => e == toCreate) || _dbContext.Set<TEntity>().Any(e => e == toCreate))
+                var dbSet = _dbContext.Set<TEntity>();
+                var entity = toCreate as Entities.Tareas;
+                if (entity != null && (dbSet.Local.Any(e => (e as Entities.Tareas).TareaID == entity.TareaID) || dbSet.Any(e => (e as Entities.Tareas).TareaID == entity.TareaID)))
                 {
                     throw new InvalidOperationException("El producto ya existe.");
                 }
 
-                _dbContext.Set<TEntity>().Add(toCreate);
+                dbSet.Add(toCreate);
                 _dbContext.SaveChanges();
                 result = toCreate;
             }
@@ -38,14 +40,16 @@ namespace DAL
             return result;
         }
 
+
+
         public bool Delete<TEntity>(TEntity toDelete) where TEntity : class
         {
             bool result = false;
             try
             {
-                _dbContext.Entry<TEntity>(toDelete).State=EntityState.Deleted;
-                
-                result = _dbContext.SaveChanges()>0;
+                _dbContext.Entry<TEntity>(toDelete).State = EntityState.Deleted;
+
+                result = _dbContext.SaveChanges() > 0;
             }
             catch (Exception)
             {
@@ -56,10 +60,10 @@ namespace DAL
 
         public void Dispose()
         {
-            if(_dbContext != null)
+            if (_dbContext != null)
             {
-                    _dbContext.Dispose();
-            }   
+                _dbContext.Dispose();
+            }
         }
 
         public List<TEntity> Filter<TEntity>(Expression<Func<TEntity, bool>> criteria) where TEntity : class
@@ -82,7 +86,7 @@ namespace DAL
             try
             {
                 result = _dbContext.Set<TEntity>().FirstOrDefault(criteria);
-                
+
             }
             catch (Exception)
             {
