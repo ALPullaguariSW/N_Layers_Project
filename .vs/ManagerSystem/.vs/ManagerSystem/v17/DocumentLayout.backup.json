@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52028A65-EC46-485E-B6AD-87317B42AD5D}|SOAPServices\\SOAPServices.csproj|d:\\examen\\examen\\.vs\\managersystem\\soapservices\\soapservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52028A65-EC46-485E-B6AD-87317B42AD5D}|SOAPServices\\SOAPServices.csproj|solutionrelative:soapservices\\soapservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C6C828-4FAF-495C-BB08-72BF3DC0E4A4}|BLL\\BLL.csproj|d:\\examen\\examen\\.vs\\managersystem\\bll\\tareaslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C6C828-4FAF-495C-BB08-72BF3DC0E4A4}|BLL\\BLL.csproj|solutionrelative:bll\\tareaslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SOAPService.asmx.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\SOAPServices\\SOAPService.asmx.cs",
+              "RelativeDocumentMoniker": "SOAPServices\\SOAPService.asmx.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\SOAPServices\\SOAPService.asmx.cs",
+              "RelativeToolTip": "SOAPServices\\SOAPService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:44:33.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareasLogic.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\BLL\\TareasLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\TareasLogic.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\BLL\\TareasLogic.cs",
+              "RelativeToolTip": "BLL\\TareasLogic.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:43:47.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

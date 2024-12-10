@@ -1,0 +1,14 @@
+D:\Examen\Examen\.vs\ManagerSystem\DAL\bin\Debug\DAL.dll.config
+D:\Examen\Examen\.vs\ManagerSystem\DAL\bin\Debug\DAL.dll
+D:\Examen\Examen\.vs\ManagerSystem\DAL\bin\Debug\DAL.pdb
+D:\Examen\Examen\.vs\ManagerSystem\DAL\bin\Debug\Entities.dll
+D:\Examen\Examen\.vs\ManagerSystem\DAL\bin\Debug\EntityFramework.dll
+D:\Examen\Examen\.vs\ManagerSystem\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Examen\Examen\.vs\ManagerSystem\DAL\bin\Debug\Entities.pdb
+D:\Examen\Examen\.vs\ManagerSystem\DAL\bin\Debug\EntityFramework.xml
+D:\Examen\Examen\.vs\ManagerSystem\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Examen\Examen\.vs\ManagerSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Examen\Examen\.vs\ManagerSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Examen\Examen\.vs\ManagerSystem\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Examen\Examen\.vs\ManagerSystem\DAL\obj\Debug\DAL.dll
+D:\Examen\Examen\.vs\ManagerSystem\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,9 @@
+D:\Examen\Examen\.vs\ManagerSystem\SLC\bin\Debug\SLC.dll
+D:\Examen\Examen\.vs\ManagerSystem\SLC\bin\Debug\SLC.pdb
+D:\Examen\Examen\.vs\ManagerSystem\SLC\bin\Debug\Entities.dll
+D:\Examen\Examen\.vs\ManagerSystem\SLC\bin\Debug\Entities.pdb
+D:\Examen\Examen\.vs\ManagerSystem\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+D:\Examen\Examen\.vs\ManagerSystem\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+D:\Examen\Examen\.vs\ManagerSystem\SLC\obj\Debug\SLC.csproj.Up2Date
+D:\Examen\Examen\.vs\ManagerSystem\SLC\obj\Debug\SLC.dll
+D:\Examen\Examen\.vs\ManagerSystem\SLC\obj\Debug\SLC.pdb
