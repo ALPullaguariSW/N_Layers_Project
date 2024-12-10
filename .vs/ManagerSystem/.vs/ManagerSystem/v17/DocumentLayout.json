@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|d:\\examen\\examen\\.vs\\managersystem\\dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606957A0-31BE-4BBD-956E-3490B213ED59}|DAL\\DAL.csproj|solutionrelative:dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01FF7EB9-C01F-4271-917F-DFD7DB02BE77}|ServiceSOAP\\ServiceSOAP.csproj|d:\\examen\\examen\\.vs\\managersystem\\servicesoap\\servicesoap.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01FF7EB9-C01F-4271-917F-DFD7DB02BE77}|ServiceSOAP\\ServiceSOAP.csproj|solutionrelative:servicesoap\\servicesoap.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1384974-4B75-4E41-8124-A355BF3C81EB}|Test\\Test.csproj|d:\\examen\\examen\\.vs\\managersystem\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1384974-4B75-4E41-8124-A355BF3C81EB}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EFRepository.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\EFRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\EFRepository.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\DAL\\EFRepository.cs",
+              "RelativeToolTip": "DAL\\EFRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:04:16.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:59:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ServiceSOAP.asmx.cs",
               "DocumentMoniker": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ServiceSOAP\\ServiceSOAP.asmx.cs",
               "RelativeDocumentMoniker": "ServiceSOAP\\ServiceSOAP.asmx.cs",
               "ToolTip": "D:\\Examen\\Examen\\.vs\\ManagerSystem\\ServiceSOAP\\ServiceSOAP.asmx.cs",
               "RelativeToolTip": "ServiceSOAP\\ServiceSOAP.asmx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T14:47:47.632Z",
               "EditorCaption": ""
